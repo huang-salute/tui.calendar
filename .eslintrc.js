@@ -40,7 +40,7 @@ module.exports = {
   },
   ignorePatterns: ['**/*.d.ts'],
   rules: {
-    '@typescript-eslint/explicit-module-boundary-types': 0,
+    '@typescript-eslint/explicit-module-boundary-types': 8,
     '@typescript-eslint/ban-types': 0,
     '@typescript-eslint/no-use-before-define': 0,
     '@typescript-eslint/explicit-function-return-type': 0,
